@@ -1,3 +1,3 @@
 # list-windows-virus-scanners
 
-- ***Dr.Web CureIt!***
+- **Dr.Web CureIt!**
